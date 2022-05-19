@@ -1,1 +1,1 @@
-# NextJs-Boiler-Plate
+# NextJs-Boiler-Plate in Js
