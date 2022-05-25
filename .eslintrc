@@ -1,8 +1,11 @@
 {
     "extends": ["next", "prettier"],
     "settings": {
-      "next": {
-        "rootDir": "packages/my-app/"
-      }
+        "next": {
+            "rootDir": "packages/my-app/"
+        }
+    },
+    "env": {
+        "browser": true
     }
-  }
+}
