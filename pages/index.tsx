@@ -1,4 +1,4 @@
-const index = () => {
+const HomePage = () => {
     return (
         <>
             <div>
@@ -17,4 +17,4 @@ const index = () => {
     );
 };
 
-export default index;
+export default HomePage;
